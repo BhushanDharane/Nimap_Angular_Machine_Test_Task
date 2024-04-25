@@ -1,0 +1,282 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "author": "John "
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "author": "Jane Smith"
+    }
+  ],
+  "user": [
+    {
+      "profile": "randomImageUrl",
+      "firstName": "Nayan",
+      "lastName": "Kharat",
+      "email": "nayan@gmail.com",
+      "telephone": 9021644095,
+      "age": 25,
+      "homeAddress": "sundarnagar",
+      "companyAddress": "pakistan",
+      "state": "Maharashtra",
+      "country": "India",
+      "tags": "Lay shana",
+      "id": "63ab"
+    },
+    {
+      "id": "27f6",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "55565656",
+      "age": 34,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "Maharashtra",
+      "country": "Armenia",
+      "tags": "ss"
+    },
+    {
+      "id": "6c2d",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "55565656",
+      "age": 34,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "u",
+      "country": "Armenia",
+      "tags": "ss"
+    },
+    {
+      "id": "1aaf",
+      "name": "dharane",
+      "email": "bhushandharane@gmail.com",
+      "telephone": "3434223213",
+      "age": 40,
+      "homeAddress": "manmad",
+      "companyAddress": "infosys",
+      "state": "m",
+      "country": "India",
+      "tags": "zz"
+    },
+    {
+      "id": "f657",
+      "name": "dharane",
+      "email": "bhushandharane@gmail.com",
+      "telephone": "3434223213",
+      "age": 40,
+      "homeAddress": "manmad",
+      "companyAddress": "infosys",
+      "state": "m",
+      "country": "India",
+      "tags": "zz"
+    },
+    {
+      "id": "d8a8",
+      "name": "hhhh",
+      "email": "vikasvakchourem243@gmail.com",
+      "telephone": "65656565665",
+      "age": 45,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "a",
+      "country": "India",
+      "tags": "cricket,vollyboll"
+    },
+    {
+      "id": "1bab",
+      "name": "hhhh",
+      "email": "vaw24092000@gmail.com",
+      "telephone": "8886676676",
+      "age": 37,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "g",
+      "country": "Andorra",
+      "tags": "crikccet"
+    },
+    {
+      "id": "d4ec",
+      "name": "rathi",
+      "email": "nayan@gmail.com",
+      "telephone": "8886676676",
+      "age": 27,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "u",
+      "country": "Austria",
+      "tags": "football"
+    },
+    {
+      "id": "cc21",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "65656565665",
+      "age": 44,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "shhs",
+      "state": "m",
+      "country": "Austria",
+      "tags": "ss"
+    },
+    {
+      "id": "06c0",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "65656565665",
+      "age": 22,
+      "homeAddress": "pune",
+      "companyAddress": "info",
+      "state": "g",
+      "country": "Australia",
+      "tags": "crikccet"
+    },
+    {
+      "id": "b034",
+      "name": "ss",
+      "email": "mk@gmail.com",
+      "telephone": "65656565665",
+      "age": 42,
+      "homeAddress": "pi",
+      "companyAddress": "ggf",
+      "state": "m",
+      "country": "Albania",
+      "tags": "crikccet"
+    },
+    {
+      "id": "3822",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "65656565665",
+      "age": 49,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "m",
+      "country": "Austria",
+      "tags": "yyy"
+    },
+    {
+      "id": "aa36",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "65656565665",
+      "age": 49,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nash",
+      "state": "m",
+      "country": "American Samoa",
+      "tags": "yyy"
+    },
+    {
+      "id": "e684",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "65656565665",
+      "age": 53,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "ggygy",
+      "state": "m",
+      "country": "Austria",
+      "tags": "ss"
+    },
+    {
+      "id": "57f3",
+      "name": " nn n",
+      "email": "bhushan23@gmail.com",
+      "telephone": "908753222",
+      "age": 48,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nki",
+      "state": "b",
+      "country": "Azerbaijan",
+      "tags": "snbs"
+    },
+    {
+      "id": "d306",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "877776763",
+      "age": 40,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "loki",
+      "state": "g",
+      "country": "Australia",
+      "tags": "crikccet"
+    },
+    {
+      "id": "5a2c",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "877776763",
+      "age": 40,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "loki",
+      "state": "g",
+      "country": "Australia",
+      "tags": "crikccet"
+    },
+    {
+      "id": "713d",
+      "name": "hhhh",
+      "email": "mk@gmail.com",
+      "telephone": "877776763",
+      "age": 40,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "loki",
+      "state": "g",
+      "country": "Australia",
+      "tags": "crikccet"
+    },
+    {
+      "id": "c051",
+      "name": "hhhh",
+      "email": "bhushan23@gmail.com",
+      "telephone": "00999888",
+      "age": 32,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nki",
+      "state": "a",
+      "country": "Albania",
+      "tags": "yyy"
+    },
+    {
+      "id": "f9db",
+      "name": "loiu",
+      "email": "milk@gmail.com",
+      "telephone": "9854326600",
+      "age": 43,
+      "homeAddress": "gggg",
+      "companyAddress": "vikol",
+      "state": "a",
+      "country": "Antarctica",
+      "tags": "lok"
+    },
+    {
+      "id": "9222",
+      "name": "dhdhddndnn",
+      "email": "mvw@gmail.com",
+      "telephone": "99999999976",
+      "age": 49,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "mil",
+      "state": "g",
+      "country": "Aruba",
+      "tags": "cricket,vollyboll"
+    },
+    {
+      "id": "fb37",
+      "name": "wakchoure",
+      "email": "vaw24092000@gmail.com",
+      "telephone": "98765333",
+      "age": 31,
+      "homeAddress": "Igatpuri",
+      "companyAddress": "nashil",
+      "state": "u",
+      "country": "Australia",
+      "tags": "cricket, footboll, hockey"
+    }
+  ]
+}
